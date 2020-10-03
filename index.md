@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DeborahMerton/writ-5662-static/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
+<html lang=en>
 
-### Markdown
+  <head>
+    <meta charset="utf-8">
+    <title>Deb's Digital Communication Journey</title>
+    <meta name="description" content="The first draft of a personal website">
+    <link rel="stylesheet" type="text/css" href="styles/style.css"> 
+  </head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <body>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+      <header>
+        <h1>Deborah Merton Biography</h1>
+      </header>
 
-- Bulleted
-- List
+ <a href="cat-names.html"> Names of all my cats<a>
+          
+    
+          <h2>A brief history of me</h2>
+            <p> I am a life-long resident of Minnesota. I live in a suburb of the Twin Cities, in a town called Roseville. I am currently a very confused graduate student at the University of Minnesota in the Technical Communication Graduate Certificate program. </p>
+            <p> My hope is that sometime soon this whole coding process will make sense to me. I would like to have more to share with the world than the names of all my cats! </p>
+          <img src="images/Eli-Merton.jpg" style="max-width: 25%;">
+      
+    
+<p></p>
+      <footer>
+        Deb Merton. No need to copyright, 2020.
+      </footer>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  </body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DeborahMerton/writ-5662-static/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html> 
