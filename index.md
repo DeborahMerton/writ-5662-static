@@ -29,10 +29,7 @@
       
     
 <p></p>
-      <footer>
-        Deb Merton. No need to copyright, 2020.
-      </footer>
-
+     
 
   </body>
 
